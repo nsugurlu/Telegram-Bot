@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+python-telegram-bot==21.3
+requests==2.31.0
+asyncio==3.4.3
+future==0.18.3

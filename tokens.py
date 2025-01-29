@@ -1,0 +1,1 @@
+token = 'YOUR-BOTFATHER-TOKEN-KEY'
