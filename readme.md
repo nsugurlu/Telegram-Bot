@@ -4,4 +4,12 @@
 - Start the bot with /start command.
 - Before run the bot replace token-key with yours.
 - Do not forget to add commands to BotFather.
-- Have Fun !"# Telegram-Bot" 
+- Have Fun !"# Telegram-Bot"
+
+  
+  Repository Topics 📋
+
+  o	Web Scraping
+  o	Image Scraping
+  o	BotFather
+  o	Telegram Bot
