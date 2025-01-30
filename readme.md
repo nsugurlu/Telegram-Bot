@@ -8,8 +8,11 @@
 
   
   Repository Topics 📋
-
+  
   o	Web Scraping
+
   o	Image Scraping
+
   o	BotFather
+
   o	Telegram Bot
